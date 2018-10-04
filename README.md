@@ -37,3 +37,13 @@ Next thing we want to find out or predict is:
 The storm events dataset is available at
 https://www.ncdc.noaa.gov/stormevents/choosedates.jsp?statefips=36%2CNEW+YORK
 This dataset contains features such as Location, County, Date, Type, Magnitude and few features telling about the damage caused by the event.
+
+
+Outcomes of Analysis:
+
+![Air_Quality issue distribution across NYC](https://github.com/ayush159/NYC-311/blob/master/graphs/air_quality.png)
+
+![Complaints Distribution Across Boroughs](https://github.com/ayush159/NYC-311/blob/master/graphs/distribution.png)
+
+![Response Time Comparison](https://github.com/ayush159/NYC-311/blob/master/graphs/complaints.png)
+
