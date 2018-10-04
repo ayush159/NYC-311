@@ -41,9 +41,9 @@ This dataset contains features such as Location, County, Date, Type, Magnitude a
 
 Outcomes of Analysis:
 
-![Air_Quality issue distribution across NYC](https://github.com/ayush159/NYC-311/blob/master/graphs/air_quality.png)
-
 ![Complaints Distribution Across Boroughs](https://github.com/ayush159/NYC-311/blob/master/graphs/distribution.png)
 
-![Response Time Comparison](https://github.com/ayush159/NYC-311/blob/master/graphs/complaints.png)
+![Most Common Complaints](https://github.com/ayush159/NYC-311/blob/master/graphs/most_common.png)
+
+![Air_Quality issue distribution across NYC](https://github.com/ayush159/NYC-311/blob/master/graphs/air_quality.png)
 
